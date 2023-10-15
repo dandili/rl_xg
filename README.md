@@ -14,7 +14,7 @@ This repository contains code to create a simplified expected goals (xG) model f
 Expected Goals (xG) is a statistical model used in sports analytics to estimate the probability of a shot resulting in a goal. In this repository, we create a simplified xG model for Rocket League matches using JSON data.
 
 ## Data
-The xG model is built using JSON data from Rocket League matches. The JSON data contains information about player and ball positions, as well as events like shots.
+The xG model is built using sample JSON data from Rocket League matches via https://rl.nickb.dev/. The JSON data contains information about player and ball positions, as well as events like shots.
 
 ## Assumptions
 1. A "shot" is identified when the ball is within a certain distance of the goal.
